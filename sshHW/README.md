@@ -4,3 +4,5 @@
 2) Создал README.md и закоммитил его в удаленный репозиторий.
 3) Закоммитил изменения в новой ветке feature и смерджил в master.
 ![alt text](imgs/image.png)
+4) Изменил один и тот же файл в ветках master и feature и разрешил конфликт
+![alt text](imgs/image2.png)
